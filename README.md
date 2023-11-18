@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TAJAMUL11
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Web development.
+- 📫 How to reach me: thetj4054@gmail.com
