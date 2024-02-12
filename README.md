@@ -10,6 +10,6 @@ Welcome to my coding corner! I'm TAJAMUL WANI, Front-end developer with a passio
 
 💻 **Open to Contributions:** Looking to be part of impactful contributions? Let's team up and create something amazing together!
 
-📬 **Get in Touch:** If you have a project or just want to chat web development, feel free to reach out on LinkedIn @ linkedin.com/in/tajamul-wani
+📬 **Get in Touch:** If you have a project or just want to chat web development, feel free to reach out on LinkedIn  https://www.linkedin.com/in/tajamul-wani/
 
 Let's code and collaborate! 🚀
