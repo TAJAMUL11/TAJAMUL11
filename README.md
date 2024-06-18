@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my coding corner! I'm TAJAMUL WANI, Front-end developer with a passion for turning ideas into interactive web projects.
+Welcome to my coding corner! I'm TAJAMUL WANI, Web developer with a passion for turning ideas into interactive web projects.
 
 🌐 **Web Enthusiast:** I love building web applications and exploring the ever-evolving landscape of web development.
 
