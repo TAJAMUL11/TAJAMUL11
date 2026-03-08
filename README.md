@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![My Image](BannerLinkedInDEC.png)
+![My Image](Updated_banner.png)
 
 Welcome to my coding corner! I'm TAJAMUL WANI, Web developer with a passion for turning ideas into interactive web projects.
 
