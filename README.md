@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![My Image](MarTech Banner.png)
+![My Image](MarTech_Banner.png)
 
 Web Developer with 2+ years of experience building high-converting landing pages, Websites, sales funnels, and automated workflows for clients across industries.
 My work sits at the intersection of custom code and no-code, I'm equally comfortable writing React/JavaScript as I am architecting complete funnel systems in Go High Level, ClickFunnels, or HubSpot. Most developers know one side. I know both.
