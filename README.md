@@ -1,4 +1,5 @@
-# Tajamul Wani - Marketing Technologist
+# Tajamul Wani - AI Systems & Automation Specialist
+Web Developer | Marketing Technologist | Automation Architect
 
 ![MarTech Banner](MarTech_Banner.png)
 
