@@ -1,12 +1,10 @@
-# Tajamul Wani - AI Systems & Automation Specialist
-Web Developer | Marketing Technologist | Automation Architect
+# Tajamul Wani — Marketing Operations Engineer
 
-![MarTech Banner](MarTech_Banner.png)
+MarOps Engineer | AI-Directed Product Builder
 
-Marketing technologist building measurable marketing infrastructure: CRM pipelines, automated funnels, outbound prospecting systems, and AI-directed engineering. I combine strategy, data, and engineering to ship production-ready marketing systems that reduce manual work and increase revenue velocity.
+Marketing Operations Engineer building measurable marketing infrastructure: CRM pipelines, automated funnels, outbound prospecting systems, and AI-directed product development. I combine strategy, data, and engineering to ship production-ready marketing systems that reduce manual work and increase revenue velocity.
 
-Key strengths:
-
+**Key strengths:**
 - CRM architecture & pipeline design (GoHighLevel, HubSpot, Salesforce)
 - Marketing automation, lifecycle flows, and checkout integrations
 - Outbound prospecting and campaign performance analysis (Snov.io, outreach)
@@ -25,34 +23,31 @@ Key strengths:
 ## Selected case studies
 
 1) **B2B Outbound Prospecting & Campaign Performance Analysis** — Go Mo Group (client: Wilms)
-
 	- Tools: Snov.io, outreach platform, spreadsheet analysis
 	- Work: ICP definition from existing clients, prospecting (Sweden), multi-stage segmentation, campaign diagnostics
 	- Key metrics: 961 contacts sourced → 50 shortlisted → 4 buyer-stage segments; 940 emails sent, 804 delivered, 683 opens; top-segment reply rate 15.4% (benchmark 5–10%)
 
 2) **Quiz-Based Lead Segmentation & Automated Nurture-to-Purchase System**
-
 	- Tools: Typeform, Zapier, GoHighLevel
 	- Work: Intent quiz → real-time tag-based segmentation → GHL nurture sequences; purchase-detection and automated post-purchase flows
 	- Outcome: Supported 5 digital products with 100% automated segmentation and zero manual lead sorting
 
-3) **FormPing (AI-directed QA automation & website monitoring)**
-
-	- Role: Directed feature development via Claude Code; handled deployment and infra
+3) **FormPing — Core Contributor** (AI-directed QA automation & website monitoring)
+	- Role: Co-built with a collaborator. Own product scope, feature direction via Claude Code, deployment, and infra.
 	- Summary: Detects and tests contact forms, tracks content / SEO changes over time, and sends Slack alerts. Deployed with Docker and Railway; persistent storage via Supabase.
 	- Repo: https://github.com/waseembashir/FormPing
 
----
+More client platform builds (GoHighLevel, ClickFunnels, WordPress, Unbounce) and full write-ups are on my [portfolio](https://tajamul-wani.netlify.app).
 
+---
 
 ## Tech & tooling
 
-- CRM / MarTech: GoHighLevel, HubSpot, Salesforce
+- CRM / MarTech: GoHighLevel, HubSpot, ClickFunnels, Salesforce
 - Automation & integrations: Zapier, webhooks, Snov.io
 - Frontend: HTML, CSS, JavaScript, React
 - Infra & deploy: Docker, Railway, Supabase
 - AI tooling: Claude Code (directed feature development)
-
 
 ---
 
@@ -61,6 +56,4 @@ Key strengths:
 - Email: tajamul.270@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tajamul-wani/
 - GitHub: https://github.com/tajamul11
-- Portfolio (public link): https://tajamul-wani.netlify.app
-
-
+- Portfolio: https://tajamul-wani.netlify.app
