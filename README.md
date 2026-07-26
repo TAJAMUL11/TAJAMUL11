@@ -1,4 +1,4 @@
-# Tajamul Wani — Marketing Operations Engineer
+# Tajamul Wani - Marketing Operations Engineer
 
 MarOps Engineer | AI-Directed Product Builder
 
@@ -7,8 +7,8 @@ Marketing Operations Engineer building measurable marketing infrastructure: CRM 
 **Key strengths:**
 - CRM architecture & pipeline design (GoHighLevel, HubSpot, Salesforce)
 - Marketing automation, lifecycle flows, and checkout integrations
-- Outbound prospecting and campaign performance analysis (Snov.io, outreach)
-- AI-directed product development and deployment (Claude Code, Docker, Railway, Supabase)
+- Outbound prospecting and campaign performance analysis (Snov.io, Apollo)
+- AI-directed product development and deployment (Claude Code, Docker, Railway, Supabase, Firebase)
 
 ---
 
@@ -22,7 +22,7 @@ Marketing Operations Engineer building measurable marketing infrastructure: CRM 
 
 ## Selected case studies
 
-1) **B2B Outbound Prospecting & Campaign Performance Analysis** — Go Mo Group (client: Wilms)
+1) **B2B Outbound Prospecting & Campaign Performance Analysis**
 	- Tools: Snov.io, outreach platform, spreadsheet analysis
 	- Work: ICP definition from existing clients, prospecting (Sweden), multi-stage segmentation, campaign diagnostics
 	- Key metrics: 961 contacts sourced → 50 shortlisted → 4 buyer-stage segments; 940 emails sent, 804 delivered, 683 opens; top-segment reply rate 15.4% (benchmark 5–10%)
@@ -37,7 +37,7 @@ Marketing Operations Engineer building measurable marketing infrastructure: CRM 
 	- Summary: Detects and tests contact forms, tracks content / SEO changes over time, and sends Slack alerts. Deployed with Docker and Railway; persistent storage via Supabase.
 	- Repo: https://github.com/waseembashir/FormPing
 
-More client platform builds (GoHighLevel, ClickFunnels, WordPress, Unbounce) and full write-ups are on my [portfolio](https://tajamul-wani.netlify.app).
+More client platform builds (GoHighLevel, ClickFunnels, WordPress, Unbounce, LearnWorlds, kajabi) and full write-ups are on my [portfolio](https://tajamul-wani.netlify.app).
 
 ---
 
