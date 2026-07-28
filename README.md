@@ -40,11 +40,11 @@ Marketing Operations Engineer building measurable marketing infrastructure: CRM 
 - **Summary:** Detects and tests contact forms, tracks content / SEO changes over time, and sends Slack alerts. Deployed with Docker and Railway; persistent storage via Supabase.
 - **Repo:** https://github.com/waseembashir/FormPing
 
-More client platform builds (GoHighLevel, ClickFunnels, WordPress, Unbounce, LearnWorlds, Kajabi) and full write-ups are on my [portfolio](https://tajamul-wani.netlify.app).
+More client platform builds (GoHighLevel, ClickFunnels, WordPress, Wix, LearnWorlds, Kajabi) and full write-ups are on my [portfolio](https://tajamul-wani.netlify.app).
 
 ---
 
-## 🛠️ Tech & Tooling
+# Tech & Tooling
 
 ### CRM & MarTech
 
@@ -52,14 +52,17 @@ More client platform builds (GoHighLevel, ClickFunnels, WordPress, Unbounce, Lea
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![ClickFunnels](https://img.shields.io/badge/ClickFunnels-EA4335?style=for-the-badge)
-![GoHighLevel](https://img.shields.io/badge/CRM-GoHighLevel-1F2937?style=for-the-badge)
+![Kajabi](https://img.shields.io/badge/Kajabi-000000?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ### Automation & Integrations
 
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D5DF6?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=for-the-badge)
 ![Snov.io](https://img.shields.io/badge/Snov.io-3A86FF?style=for-the-badge)
-![Apollo](https://img.shields.io/badge/Apollo-5B5BD6?style=for-the-badge)
 
 ### Frontend
 
@@ -77,16 +80,15 @@ More client platform builds (GoHighLevel, ClickFunnels, WordPress, Unbounce, Lea
 
 ### AI Tooling
 
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Directed_Product_Development-6C63FF?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 
 ---
 
-## Contact
+# Contact
 
 <p align="left">
   <a href="mailto:tajamul.270@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/tajamul-wani/" target="_blank">
@@ -98,6 +100,6 @@ More client platform builds (GoHighLevel, ClickFunnels, WordPress, Unbounce, Lea
   </a>
 
   <a href="https://tajamul-wani.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
