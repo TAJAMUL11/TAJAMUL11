@@ -34,12 +34,6 @@ Marketing Operations Engineer building measurable marketing infrastructure: CRM 
 - **Work:** Intent quiz → real-time tag-based segmentation → GHL nurture sequences; purchase-detection and automated post-purchase flows
 - **Outcome:** Supported 5 digital products with 100% automated segmentation and zero manual lead sorting
 
-### 3) FormPing — Core Contributor (AI-directed QA automation & website monitoring)
-
-- **Role:** Co-built with a collaborator. Own product scope, feature direction via Claude Code, deployment, and infra.
-- **Summary:** Detects and tests contact forms, tracks content / SEO changes over time, and sends Slack alerts. Deployed with Docker and Railway; persistent storage via Supabase.
-- **Repo:** https://github.com/waseembashir/FormPing
-
 More client platform builds (GoHighLevel, ClickFunnels, WordPress, Wix, LearnWorlds, Kajabi) and full write-ups are on my [portfolio](https://tajamul-wani.netlify.app).
 
 ---
