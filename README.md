@@ -1,5 +1,10 @@
-# TJ - GTM Engineer
+### This profile is no longer active.
 
-Reach out to me on my active github profile : https://github.com/tajamul-wani
+I've consolidated my work under a single GitHub profile. 
+Please find my current projects, contributions, and contact info here:
 
+## 👉 [github.com/tajamul-wani](https://github.com/tajamul-wani)
 
+---
+
+*This account previously hosted early learning projects in HTML, CSS, JavaScript, and React. Active repositories have been moved to the profile above.*
